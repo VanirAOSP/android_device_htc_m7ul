@@ -1,0 +1,1 @@
+add_lunch_combo vanir_m7ul-userdebug
